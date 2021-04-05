@@ -124,7 +124,7 @@ body{
 }
 .portfolio__img {
     max-width: 400px;
-    max-height: 400px;
+    max-height: 300px;
 }
 /* MISSION */
 .mission{
@@ -162,7 +162,6 @@ body{
     letter-spacing: 0.2px;
     color: #252B42;
     text-align: center;
-    text-transform: uppercase;
 }
 .title__support {
     font-weight: 500;
